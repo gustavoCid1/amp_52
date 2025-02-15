@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          echo con ranch
+            
         </a>
       </header>
     </div>
