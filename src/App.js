@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           echo con ranch
-            
         </a>
       </header>
     </div>
